@@ -13,3 +13,9 @@ To-Do, лендинги, клоны сайтов, сайты визитки
 
 ## Контакты
 Telegram: @chatorsn
+
+## 💻 Стек
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,github,vscode,visualstudio" />
+</p>
